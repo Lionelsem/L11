@@ -1,6 +1,3 @@
-// Note: I have to use SafeAreaView ensures my app's content stays visible and never gets hidden behind notches,
-// status bars, or curved screen edges. (There time where my app I cant press the button cause it
-// overlap with the front camera etc with the help of SafeAreaView i able to click on the button.)
 
 import React from 'react';
 import {
